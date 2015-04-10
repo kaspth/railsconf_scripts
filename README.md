@@ -48,3 +48,11 @@ Checkout the `practicing-git` branch.
 
 The `practicing-git` branch is a branch for practicing git commands for my RailsConf
 lab on contributing to Rails. Please see that branch for git the git commands.
+
+### Interactive Rebase
+
+### Undoing Things
+
+#### Reset
+
+#### Reflog
